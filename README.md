@@ -5,9 +5,9 @@
 The codes I implemented myself after reading OREILLY's NLP books.
 
 
-**Natural Language Processing with PyTorch**
+**□ Natural Language Processing with PyTorch**
 
-**Natural Language Processing with Transformers**
+**□ Natural Language Processing with Transformers**
 
 
 ---
