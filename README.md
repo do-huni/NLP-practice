@@ -1,7 +1,5 @@
 # NLP_practice
 
----
-
 **1. OREILLY**
 
 OREILLY의 NLP 도서들을 읽으며 직접 구현해본 코드들입니다.
