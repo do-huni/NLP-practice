@@ -7,14 +7,11 @@ The codes I implemented myself after reading OREILLY's NLP books.
 
 **□ Natural Language Processing with PyTorch**
 - Pytorch Basics
-
 - NLP Techniques
 
 **□ Natural Language Processing with Transformers**
 - Basic Architecture of Transformer
-
 - Text Classification 
-
 - Named Entity Recognition
 ---
 
