@@ -20,5 +20,5 @@ The codes I implemented myself after reading OREILLY's NLP books.
 NLP Models in 'Natural language processing starting with TensorFlow 2 and machine learning, wikibooks'
 
 - Text Classification
-- Chat Bot_seq2seq
-- Chat Bot_transformer
+- ChatBot_seq2seq
+- ChatBot_transformer
