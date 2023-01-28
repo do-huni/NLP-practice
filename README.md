@@ -5,11 +5,11 @@
 The codes I implemented myself after reading OREILLY's NLP books.
 
 
-**□ Natural Language Processing with PyTorch**
+**■ Natural Language Processing with PyTorch**
 - Pytorch Basics
 - NLP Techniques
 
-**□ Natural Language Processing with Transformers**
+**■ Natural Language Processing with Transformers**
 - Basic Architecture of Transformer
 - Text Classification 
 - Named Entity Recognition
@@ -19,4 +19,6 @@ The codes I implemented myself after reading OREILLY's NLP books.
 
 NLP Models in 'Natural language processing starting with TensorFlow 2 and machine learning, wikibooks'
 
-
+- Text Classification
+- chatbot_seq2seq
+- chatbot_transformer
